@@ -1,0 +1,23 @@
+/* styles/Sidebar.module.css */
+
+.sidebar {
+    width: 250px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    position: fixed;
+    height: 100%;
+}
+
+.navList {
+    list-style: none;
+    padding: 0;
+}
+
+.navList li {
+    margin-bottom: 15px;
+}
+
+.navList li a {
+    color: #333;
+    text-decoration: none;
+}
